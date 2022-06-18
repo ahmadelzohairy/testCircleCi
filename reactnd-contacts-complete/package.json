@@ -17,6 +17,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "npm i yarn && react-scripts build"
   }
 }
